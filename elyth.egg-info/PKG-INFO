@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: elyth
+Version: 0.0.0.1
+Summary: Dead-simple Discord bot creation for Python, inspired by BotForge.
+Author-email: "Karl Benjamin R. Bughaw / ElythHQ" <benjo@pro.space>
+Project-URL: Homepage, https://github.com/ElythHQ/elyth
+Keywords: discord,bot,discord.py,simple,beginner,bdfd,aoi.js
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: discord.py>=2.0.0
+
+# Elyth
