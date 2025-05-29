@@ -1,4 +1,4 @@
-# Elyth 📦 <img src="https://raw.githubusercontent.com/ElythHQ/Elyth/main/assets/elyth_logo.svg" alt="Elyth Logo" width="50"/>
+# Elyth 📦 <img src="https://raw.githubusercontent.com/ElythHQ/Elyth/main/elyth_logo.svg" alt="Elyth Logo" width="50"/>
 
 **Elyth: Create Discord bots in Python with dead-simple, string-based commands!**
 
